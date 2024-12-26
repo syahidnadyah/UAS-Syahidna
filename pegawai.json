@@ -1,0 +1,16 @@
+{
+	"_id": {
+		"$oid": "676cabdd999bd59d2a83ed0e"
+	},
+	"id": 3.0,
+	"nama": "Jiang Yusong",
+	"jabatan": "Teller"
+}
+{
+	"_id": {
+		"$oid": "676cabdd999bd59d2a83ed0f"
+	},
+	"id": 4.0,
+	"nama": "Zhuang Yibai",
+	"jabatan": "Petugas Kredit"
+}

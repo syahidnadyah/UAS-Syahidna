@@ -1,0 +1,20 @@
+{
+	"_id": {
+		"$oid": "676cab83999bd59d2a83ed0c"
+	},
+	"id": 1.0,
+	"nama": "Lu Boyuan",
+	"nomor rekening": 1.112345E+06,
+	"jenis rekening": "Tabungan",
+	"saldo": 2E+07
+}
+{
+	"_id": {
+		"$oid": "676cab83999bd59d2a83ed0d"
+	},
+	"id": 2.0,
+	"nama": "Jian Rong",
+	"nomor rekening": 111236.0,
+	"jenis rekening": "tabungan",
+	"saldo": 1.5E+07
+}

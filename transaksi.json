@@ -1,0 +1,20 @@
+{
+	"_id": {
+		"$oid": "676caca3999bd59d2a83ed10"
+	},
+	"id": 5.0,
+	"nomor rekening": 1.112345E+06,
+	"jenis transaksi": "Setoran",
+	"jumlah": 5E+06,
+	"tanggal": "12 Oktober 2024"
+}
+{
+	"_id": {
+		"$oid": "676caca3999bd59d2a83ed11"
+	},
+	"id": 6.0,
+	"nomor rekening": 1.112346E+06,
+	"jenis transaksi": "Penarikan",
+	"jumlah": 3E+06,
+	"tanggal": "27 Desember 2024"
+}
